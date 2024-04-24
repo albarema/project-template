@@ -17,6 +17,8 @@ Folder structure
 Project_name/
 |-- readme.md
 |-- Data (symbolic link)
+|   |-- raw
+|   |-- processed
 |-- Docs/
 |-- metadata.yml
 |-- Pipeline/
